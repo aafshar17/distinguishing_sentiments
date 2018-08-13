@@ -6,4 +6,4 @@
  
 ## Purpose
 
-The purpose of the project is to create a Python script to to perform a sentiment analysis of the Twitter activity of various news oulets, and to present your findings in a visual method.
+The purpose of the project is to create a Python script to to perform a sentiment analysis of the Twitter activity of various news outlets, and to present your findings in a visual method.
